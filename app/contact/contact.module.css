@@ -12,8 +12,8 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-  }
-  /* .title{
+}
+.contact{
         color:black;
         padding: 10px;
         font-size: 30px;
@@ -21,13 +21,13 @@
         outline: none;
         cursor: pointer;
         font-weight: 700px;
-        background-color:chocolate;
+        background-color: blue;
         font-family: Georgia, 'Times New Roman', Times, serif;
         height: 80px;
         width: 100%;
         
     }
-    .title::after{
+    .contact::after{
         content: "";
         position:absolute;
         display: block;
@@ -37,10 +37,9 @@
         background-color: black;
         transition: 4s ease-in-out;
     }
-    .title:hover::after{
+    .contact:hover::after{
         content: "";
         height:10px ;
         width: 20%;
         display: block;
-    } */
-  
+    }

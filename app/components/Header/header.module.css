@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: darkred;
+}
+.heading{
+    font-size: 20px;
+    color: bisque;
+    padding: 5px;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+    font-size: 20px;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+}
+.navbar>li{
+    margin-bottom: 20px;
+
+}
+.nav{
+    color: black;
+    font-weight: bold;
+    font-style: oblique;
+    transition: color 0.3s ease;
+}
+.nav:hover{
+    color: wheat;
+}

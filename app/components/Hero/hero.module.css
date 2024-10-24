@@ -1,0 +1,31 @@
+.box{
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    text-align: center;
+    color: crimson;
+    text-shadow: 1px 2px 3px 4px whitesmoke;
+}
+.title{
+font-size: large;
+margin-top: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.paragraph{
+    font-size: 7px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    color: coral;
+    max-width: 800px;
+}
+
+.paragraph>p{
+    font-size: 2px;
+    line-height: 1.4;
+    margin-bottom: 20px;
+    color: coral;
+}
